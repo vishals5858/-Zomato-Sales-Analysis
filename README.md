@@ -1,9 +1,8 @@
-# Data-Analyst-PROJECT
+1.	CRM: Customer Relationship Management
 
-Objective: Performed sales analysis to identify trends, optimize strategies, and enhance customer satisfaction using Power BI, Tableau, Excel, and SQL.
-
+Description: Conducted comprehensive analysis of CRM data to derive insights and inform business strategies.
 Roles and Responsibilities:
-• Data Extraction: Extracted sales data from Zomato databases using SQL queries.
-• Data Cleaning: Preprocessed and cleaned data in Excel for analysis.
-• Trend Analysis: Analyzed sales data to identify key trends and patterns.
-• Dashboard Development: Created interactive dashboards in Excel, Power BI, and Tableau to present insights effectively.
+•	Data Cleaning and Preparation: Employed SQL for data extraction and transformation, ensuring data accuracy and consistency.
+•	Dynamic Data Visualization: Developed interactive dashboards in Tableau and Power BI to effectively present key metrics and trends.
+•	Statistical Analysis: Conducted detailed data analysis using Excel, including pivot tables, VLOOKUP, and advanced formulas.
+•	Insightful Reporting: Designed and launched dashboards and reports that improved decision-making efficiency by 30% and contributed to a 20% quarterly revenue increase
